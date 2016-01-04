@@ -1,4 +1,5 @@
-##Udacity, Front-End Web Developer Nanodegree. Online Resume Project 2.
+##Udacity, Front-End Web Developer Nanodegree. 
+##Online Resume Project 2.
 
 ###Project Overview.
 
