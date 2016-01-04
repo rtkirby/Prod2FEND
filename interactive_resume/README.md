@@ -20,5 +20,9 @@ Intro to jQuery.
 Implement Google Map to show job locations.
 
 ###References.
+Udacity, JavaScript Basics Course
 
 ###Resources.
+http://www.w3schools.com/js/
+www.javascript.com
+http://jquery.com/
